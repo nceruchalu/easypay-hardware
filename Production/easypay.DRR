@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: easypay.PcbDoc   4/9/2013  2:06:31 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : easypay.TXT
+EIA File   : easypay.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        28mil (0.7112mm)         Round          94               322.01 Inch (8178.98 mm)
+T2        29.53mil (0.75006mm)     Round          6                292.41 Inch (7427.12 mm)
+T3        35.43mil (0.89992mm)     Round          50               301.04 Inch (7646.33 mm)
+T4        42mil (1.0668mm)         Round          4                291.92 Inch (7414.76 mm)
+T5        118.11mil (2.99999mm)    Round          6                302.37 Inch (7680.19 mm)
+---------------------------------------------------------------------------
+Totals                                            160              1509.74 Inch (38347.39 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

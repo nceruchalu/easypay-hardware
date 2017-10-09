@@ -10,9 +10,6 @@ directory. Keep list in alphabetical order.
 ### [/Datasheets](Datasheets)
 Resource files used in designing the circuit hardware.
 
-### [/Schematics](Schematics)
-Printed Altium Schematic Documents
-
 ## Modules
 
 Brief description of modules. Add a brief description when adding a new module.
