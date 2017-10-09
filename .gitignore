@@ -1,0 +1,17 @@
+# OSX
+*~
+*.DS_Store
+
+# Altium
+History/
+__Previews/
+Project Outputs for *
+Project Logs for *
+
+*.DatPreview
+*.PcbDocPreview
+*.SchDocPreview
+
+# C Code
+*.o
+test/test_main

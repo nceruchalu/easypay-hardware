@@ -1,0 +1,3 @@
+[submodule "Firmware/easypay"]
+	path = Firmware/easypay
+	url = https://github.com/nceruchalu/easypay
